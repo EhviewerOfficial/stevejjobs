@@ -1,1 +1,1 @@
-# 미로게임
+# 돌림판 게임 (Random Wheel Game)
